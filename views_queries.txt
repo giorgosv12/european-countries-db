@@ -1,0 +1,11 @@
+***Queries***
+
+1) Determine the oldest monument across all European nations.
+2) Identify the most widely visited museum in Europe.
+3) Compare the number of COVID-19 cases in Greece on November 24th, 2021 to similarly populated countries (+/- 10%).
+4) Determine which European countries have at least one railway station or port.
+
+***Views***
+1) Obtain information regarding available transportation options (airports, railways, and ports) across European nations.
+2) Acquire information about popular tourist attractions and their locations for all European nations.
+3) Gather data about COVID-19, including vaccinations, percentage of vaccinated individuals, cases, and deaths, for all European nations.
