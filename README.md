@@ -9,7 +9,7 @@ options, popular tourist cities and destinations, and must-see attractions for t
 
 The Entity Relationship Diagram (ERD) of the _EuropeanCountriesDB_ can be found in
 [europeancountriesdb_erd](./europeancountriesdb_erd.png) file. The Database is described in detail in the provided
-[Report](./EuropeanCountriesDBReport.pdf) (Greek)
+[Report](./EuropeanCountriesDBReport.pdf)
 
 ## Overview
 ***
